@@ -1,6 +1,6 @@
 # DocIQ – Chat with Your Documents (RAG System)
 
-## On=verview
+## Overview
 DocIQ is a real-time PDF assistant powered by open-source LLMs and vector search. 
 Upload a PDF, and immediately start chatting with it.
 
