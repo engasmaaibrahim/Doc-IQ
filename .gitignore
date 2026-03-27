@@ -1,0 +1,8 @@
+__pycache__/
+blip_model/
+*.pyc
+.env
+venv/
+data/
+models/*.h5
+models/*.pkl
